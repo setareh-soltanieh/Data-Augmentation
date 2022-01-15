@@ -5,6 +5,7 @@ Here our data augmentation methods consist of:
 2. Rotating
 3. Scaling 
 4. Brightening
+
 These methods are applied on test.jpg 
 To see data augmentation's effect on classification, we use the Cifar10 dataset, found at https://www.cs.toronto.edu/~kriz/cifar.html. 
 In this dataset, we have 60000 images of 10 different classes. We use 5000 images in each class except dog and cat class that we only use 500 images. 
